@@ -35,6 +35,12 @@ reads_suffix <- "_joint_sequences_reads.txt"
 
 filtered_list_file <- "/fast/AG_Landthaler/emanuel/wastewater/Berlin_enterovirus/filtered_accs_list.txt"
 
+liste = c(1,2,3,4,5)
+for (i in liste){
+  print(paste0("i ist = ", i))
+  j = 2 + i
+  print(paste0("j ist = ", j))
+}
 
 setwd(the_wd)
 paired_filelist <- try(read.table(paired_filelist, header=FALSE)$V1, silent = TRUE)
