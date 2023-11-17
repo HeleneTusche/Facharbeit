@@ -42,6 +42,8 @@ for (i in liste){
   print(paste0("j ist = ", j))
 }
 
+print("hallo welt")
+
 setwd(the_wd)
 paired_filelist <- try(read.table(paired_filelist, header=FALSE)$V1, silent = TRUE)
 if (inherits(paired_filelist, "try-error")) {
