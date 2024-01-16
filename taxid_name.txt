@@ -1,0 +1,112 @@
+12059	Enterovirus
+42778	Coxsackievirus A19
+138950	Enterovirus C
+463676	Rhinovirus C
+42779	Coxsackievirus A1
+42783	Coxsackievirus A22
+64141	Porcine enterovirus 9
+138948	Enterovirus A
+138949	Enterovirus B
+1193974	Human enterovirus
+1295563	Enterovirus C99
+1134340	Enterovirus C116
+2884179	enterovirus A125
+106966	Enterovirus G
+147679	Rhinovirus B48
+2555550	rhinovirus C55
+2772502	Porcine enterovirus G
+306588	Enterovirus A76
+12083	Poliovirus 2
+325445	Enterovirus C96
+2760819	enterovirus C117
+44128	rhinovirus A21
+2760820	enterovirus C118
+35294	Echovirus E2
+42772	Coxsackievirus A13
+147711	Rhinovirus A
+147712	Rhinovirus B
+12080	Poliovirus 1
+2870369	enterovirus G2
+44129	rhinovirus A29
+2017720	Porcine enterovirus b/BEL/15V010
+185920	rhinovirus A61
+2691036	Enterovirus C113
+2045074	rhinovirus C33
+147685	rhinovirus A78
+12089	Coxsackievirus A24
+39054	Enterovirus A71
+42785	Coxsackievirus A4
+86107	Coxsackievirus A6
+12075	Swine vesicular disease virus
+35293	Echovirus E12
+42769	Coxsackievirus A10
+42788	Coxsackievirus A8
+12086	Poliovirus 3
+138951	Enterovirus D
+185936	rhinovirus B83
+33757	Coxsackievirus A2
+69153	Human enterovirus 71 (strain BRCR)
+82639	Coxsackievirus B2
+185911	rhinovirus A47
+12074	Coxsackievirus B5
+103903	Coxsackievirus B3 (strain Nancy)
+12072	Coxsackievirus B3
+42789	enterovirus D68
+42786	Coxsackievirus A5
+297248	Enterovirus A90
+306586	Enterovirus A89
+185898	rhinovirus A25
+47502	Echovirus E14
+47681	Enterovirus sp.
+31704	Coxsackievirus A16
+45101	Echovirus E25
+42775	Coxsackievirus A17
+1219416	rhinovirus C1
+47501	Echovirus E13
+433732	Human echovirus AMS573
+12067	Coxsackievirus A9
+169066	Human rhinovirus sp.
+1240004	rhinovirus C11
+12060	Echovirus E9
+42782	Coxsackievirus A20
+2094116	rhinovirus C56
+12081	Human poliovirus 1 Mahoney
+185927	rhinovirus A71
+1219407	rhinovirus C42
+2650411	Enterovirus C104
+2777135	rhinovirus C50
+2870395	enterovirus A124
+185891	rhinovirus A9
+12073	Coxsackievirus B4
+47510	Echovirus E24
+47512	Echovirus E29
+1219381	rhinovirus A101
+47506	Echovirus E18
+47516	Echovirus E3
+1826059	Enterovirus SEV-gx
+1219404	rhinovirus C17
+12078	Echovirus E11
+12071	Coxsackievirus B1
+42770	Coxsackievirus A11
+167325	rhinovirus B91
+47507	Echovirus E19
+363191	Coxsackievirus A19/22
+47504	Echovirus E16
+185928	rhinovirus A73
+861519	Enterovirus C109
+1435148	Enterovirus A120
+41846	Echovirus E30
+46633	Echovirus E1
+147677	rhinovirus B52
+1330520	Enterovirus F
+185917	rhinovirus A57
+318564	Enterovirus B81
+47505	Echovirus E17
+47508	Echovirus E20
+991902	Enterovirus B93
+12062	Echovirus E6
+318567	Enterovirus B84
+42771	Coxsackievirus A12
+46018	Echovirus E7
+47513	Echovirus E31
+185903	rhinovirus A32

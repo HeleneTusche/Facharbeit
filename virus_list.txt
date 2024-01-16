@@ -1,0 +1,11 @@
+	Porcine enterovirus 9
+	Human enterovirus
+	enterovirus A125
+	Porcine enterovirus G
+	enterovirus C117
+	enterovirus C118
+	enterovirus G2
+	Porcine enterovirus b/BEL/15V010
+	Human enterovirus 71 (strain BRCR)
+	enterovirus D68
+	enterovirus A124
